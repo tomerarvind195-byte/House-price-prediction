@@ -148,11 +148,11 @@ python house_price_prediction.py
 
 ## 🔍 Key Insights from Analysis
 
-- **MedInc (Median Income)** is the strongest predictor of house prices
-- **Location (Latitude/Longitude)** has significant impact on pricing
-- **AveRooms** positively correlates with house value
-- **Population density** has an inverse relationship with price in some areas
-- **Random Forest / Gradient Boosting** outperform linear models on this dataset
+- **MedInc (Median Income)** is the strongest predictor of house prices.
+- **Location (Latitude/Longitude)** has significant impact on pricing.
+- **AveRooms** positively correlates with house value.
+- **Population density** has an inverse relationship with price in some areas.
+- **Random Forest / Gradient Boosting** outperform linear models on this dataset.
 
 ---
 
