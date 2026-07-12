@@ -198,12 +198,12 @@ Visualization
 
 ## 🔮 Future Improvements
 
-- [ ] Add **XGBoost** and **LightGBM** for even better accuracy
-- [ ] Build a **web interface** using Django to predict prices from user input
-- [ ] Add **hyperparameter tuning** (GridSearchCV / RandomizedSearchCV)
-- [ ] Deploy as a **REST API** using Django REST Framework
-- [ ] Add **cross-validation** for more robust model evaluation
-- [ ] Integrate with real-time housing data API
+- [ ] Add **XGBoost** and **LightGBM** for even better accuracy.
+- [ ] Build a **web interface** using Django to predict prices from user input.
+- [ ] Add **hyperparameter tuning** (GridSearchCV / RandomizedSearchCV).
+- [ ] Deploy as a **REST API** using Django REST Framework.
+- [ ] Add **cross-validation** for more robust model evaluation.
+- [ ] Integrate with real-time housing data API.
 
 ---
 
