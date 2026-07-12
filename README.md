@@ -88,20 +88,20 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 ### Run the Project
 
 ```bash
-# 1. Clone the repository
+# 1. Clone the repository.
 git clone https://github.com/tomerarvind195-byte/House-price-prediction.git
-cd House-price-prediction
+cd House-price-prediction.
 
-# 2. Install dependencies
+# 2. Install dependencies.
 pip install -r requirements.txt
 
 # 3. Run the prediction script
 python house_price_prediction.py
 
 # Output:
-# - Model comparison results printed to terminal
-# - Charts saved as PNG files
-# - model_comparison_results.csv generated
+# - Model comparison results printed to terminal.
+# - Charts saved as PNG files.
+# - model_comparison_results.csv generated.
 ```
 
 ---
