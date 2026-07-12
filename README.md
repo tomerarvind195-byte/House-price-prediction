@@ -12,7 +12,6 @@
 
 ## 📊 Project Visualizations
 
-> _(Actual charts from the repo — already generated!)_
 
 | Correlation Heatmap | Feature Importance | Model Comparison |
 |--------------------|--------------------|-----------------|
