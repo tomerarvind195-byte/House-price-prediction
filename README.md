@@ -1,4 +1,4 @@
-# 🏠 House Price Prediction — Machine Learning Project
+u# 🏠 House Price Prediction — Machine Learning Project
 
 > A Python-based Machine Learning project that predicts California house prices using multiple regression models — with data visualization, feature analysis, and model comparison.
 
@@ -224,6 +224,7 @@ Visualization
 - 🌐 [LinkedIn](https://www.linkedin.com/in/arvind-kumar-399a60338)
 - 💻 [GitHub](https://github.com/tomerarvind195-byte)
 - 📧 tomerarvind195@gmail.com
+- 📧
 
 ---
 
